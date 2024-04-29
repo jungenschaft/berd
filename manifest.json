@@ -1,0 +1,28 @@
+{
+   "action": {
+      "default_popup": "popup.html"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "js": [ "main.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "homepage_url": "https://jungenschaft.net",
+   "icons": {
+      "128": "images/icon128.png",
+      "16": "images/icon16.png",
+      "24": "images/icon24.png",
+      "32": "images/icon32.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmG5NV3BL3a+QuTmHH8IprY8FLhD978d6ZTdeTas5lb7tuQ9hhW3qva+AT+R+rM6mbGqfjZeC7FymOWd5N4WakYQZdNINc6ILIfVizJUCZwYMQN0W4CbRTuTS2e80e770J69t+dapCQ21/9llplvuiUBqZM5rbrXRDYMi/YkPS0TCtCGvo5j3iogJgTL+GZH2081airlODoa99JgFkGpJBU7PTYKhSYBQU9KndnjgvAtZDPf/avH8l4atsqAmZKTvj+Ehh8CxarHJAiPhsT9c0YGpiK5gd87MK4IsAoOoRtoVk4epIynx1fPqQN7UaK63MYVwg2jIXOro8unHNIcIJQIDAQAB",
+   "manifest_version": 3,
+   "name": "BERD",
+   "permissions": [ "activeTab", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}
