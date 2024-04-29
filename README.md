@@ -6,7 +6,7 @@
 * Datei im Explorer öffnen
 * Rechtsklick -> Datei/Hier entpacken
   
-## Chrome Erweiterunghinzufügen
+## Chrome Erweiterung hinzufügen
 * Öffne <code>chrome://extensions/</code>
 * Aktiviere oben rechts den Entwicklermodus
 * Oben links <code>Entpackte Erweiterungen laden</code>
