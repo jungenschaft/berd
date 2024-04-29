@@ -5,7 +5,7 @@
 * Im Menu <code>Download ZIP</code>
 * Datei im Explorer öffnen
 * Rechtsklick -> Datei/Hier entpacken
-* 
+  
 ## Chrome Erweiterunghinzufügen
 * Öffne <code>chrome://extensions/</code>
 * Aktiviere oben rechts den Entwicklermodus
