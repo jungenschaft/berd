@@ -11,4 +11,4 @@
 * Aktiviere oben rechts den Entwicklermodus
 * Oben links <code>Entpackte Erweiterungen laden</code>
 * Entpackten Ordner auswählen
-* Genießen :)
+Genießen :)
