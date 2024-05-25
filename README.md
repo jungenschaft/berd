@@ -1,4 +1,8 @@
-# BERD Erweiterung für Chrome downloaden und laden
+# Was ist BERD?
+BERD ist eine Erweiterung für Chrome Desktop, dass zur Feier des Geburtstags von Gerd B. veröffentlichte wurde.
+Es vertauscht bei jeglichem Vorkommen des Namens die Anfangsbuchstaben von seinem Vor- und Nachname.
+
+# BERD Erweiterung für Chrome Desktop downloaden und laden
 
 ## Downloaden und entpacken
 * Oben den grünen Button <code><> Code</code>
